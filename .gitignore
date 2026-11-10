@@ -6,3 +6,4 @@ watchdog-state.tmp
 PAUSE
 __pycache__/
 .DS_Store
+watchdog.lock
