@@ -1,0 +1,29 @@
+.gitignore
+  s_7ddec03946c9cf::t_62d26aafdfd134 9
+README.md
+  s_7ddec03946c9cf::t_ac6c93d771b59e 1,3-6,8,10-12,15,17,20-21,23-46,48-53,56,59-96,98-100,102-103,106,109-115,118-119,122-125,127-130,133-134,137-144,146-148,151-171,174-204
+install.py
+  s_7ddec03946c9cf::t_9033c9943368f7 1-2,12-25,30-37,39-40,42,44-57,59-62,64,66-69,72
+neo-usb-reset.c
+  s_7ddec03946c9cf::t_e10fdda6cbd560 5-6,9,12-35,45-54,56-65,71,75-76,80-81,83-92,100,102,120-124,131
+tests/test_recovery.py
+  s_7ddec03946c9cf::t_94ab05acdf2f0b 1-223
+watchdog.py
+  s_7ddec03946c9cf::t_900cbe1a2d6163 1-3,5,9,11,13,17-22,25-26,29-30,33-100,102-242,244-269,272-332
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ecd2ab7bbffe83cfed71e0a34c0ec0558d5aefdd",
+  "prompts": {},
+  "sessions": {
+    "s_7ddec03946c9cf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19e43-a2c9-7583-a329-05b4cc3c1dcd",
+        "model": "unknown"
+      },
+      "human_author": "Sergey Skaridov <sskaridov@qase.io>"
+    }
+  }
+}
